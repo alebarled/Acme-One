@@ -1,6 +1,13 @@
+
 INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-4FSOHOU with PID 25452 (C:\Users\Victor Granero\Desktop\Workspace-21.1\Workspace-21.1\Projects\Acme-One\target\classes started by Victor Granero in C:\Users\Victor Granero\Desktop\Workspace-21.1\Workspace-21.1\Projects\Acme-One)
 INFO [acme.Launcher] The following profiles are active: development,populator
 INFO [acme.Launcher] Started Launcher in 6.841 seconds (JVM running for 7.63)
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-E6RSVOF with PID 7200 (D:\Workspace-21.1\Projects\Acme-One\target\classes started by jesus in D:\Workspace-21.1\Projects\Acme-One)
+INFO [acme.Launcher] The following profiles are active: development,populator
+INFO [acme.Launcher] Started Launcher in 7.18 seconds (JVM running for 8.212)
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-76H3DT7 with PID 9488 (C:\Users\Usuario\Workspace-21.1\Projects\Acme-One\target\classes started by Usuario in C:\Users\Usuario\Workspace-21.1\Projects\Acme-One)
+INFO [acme.Launcher] The following profiles are active: development,populator
+INFO [acme.Launcher] Started Launcher in 9.31 seconds (JVM running for 10.375)
 INFO [acme.framework.utilities.DatabasePopulator] Populating initial data
 INFO [acme.framework.utilities.DatabasePopulator] Recreating schema
 INFO [acme.framework.utilities.DatabasePopulator] Populating entities from classpath:/WEB-INF/population/initial-data.xml
@@ -23,3 +30,35 @@ INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorUser
 INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAdministrator = acme.framework.entities.Administrator{id=4, version=0}
 INFO [acme.framework.utilities.DatabasePopulator] > Persisting administratorAuthenticated = acme.framework.entities.Authenticated{id=5, version=0}
 INFO [acme.framework.configuration.ShutdownConfiguration] The system is shutting down...
+WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8083 is already in use
+ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
+APPLICATION FAILED TO START
+***************************
+Description:
+Web server failed to start. Port 8083 was already in use.
+Action:
+Identify and stop the process that's listening on port 8083 or configure this application to listen on another port.
+WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8083 is already in use
+ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
+APPLICATION FAILED TO START
+***************************
+Description:
+Web server failed to start. Port 8083 was already in use.
+Action:
+Identify and stop the process that's listening on port 8083 or configure this application to listen on another port.
+WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8083 is already in use
+ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
+APPLICATION FAILED TO START
+***************************
+Description:
+Web server failed to start. Port 8083 was already in use.
+Action:
+Identify and stop the process that's listening on port 8083 or configure this application to listen on another port.
+WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8083 is already in use
+ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] ***************************
+APPLICATION FAILED TO START
+***************************
+Description:
+Web server failed to start. Port 8083 was already in use.
+Action:
+Identify and stop the process that's listening on port 8083 or configure this application to listen on another port.
