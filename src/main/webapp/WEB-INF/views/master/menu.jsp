@@ -21,6 +21,10 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.david-link" action="https://www.youtube.com/channel/UC1gbj0LzlgVHYF4LIIB1hcw"/>
+			<acme:menu-suboption code="master.menu.anonymous.granero-link" action="https://www.instagram.com/vixtorgg/"/>
+			<acme:menu-suboption code="master.menu.anonymous.aparicio-link" action="https://twitter.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.ostos-favourite-link" action="https://www.cleverbot.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.barranco-link" action="http://www.github.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -35,11 +39,19 @@
 		<acme:menu-option code="master.menu.provider" access="hasRole('Provider')">
 			<acme:menu-suboption code="master.menu.provider.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.provider.david-link" action="https://www.youtube.com/channel/UC1gbj0LzlgVHYF4LIIB1hcw"/>
+			<acme:menu-suboption code="master.menu.provider.granero-link" action="https://www.instagram.com/vixtorgg/"/>
+			<acme:menu-suboption code="master.menu.provider.aparicio-link" action="https://twitter.com/"/>
+			<acme:menu-suboption code="master.menu.provider.ostos-favourite-link" action="https://www.cleverbot.com/"/>
+			<acme:menu-suboption code="master.menu.provider.barranco-link" action="http://www.github.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
 			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.consumer.david-link" action="https://www.youtube.com/channel/UC1gbj0LzlgVHYF4LIIB1hcw"/>
+			<acme:menu-suboption code="master.menu.consumer.granero-link" action="https://www.instagram.com/vixtorgg/"/>
+			<acme:menu-suboption code="master.menu.consumer.aparicio-link" action="https://twitter.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.ostos-favourite-link" action="https://www.cleverbot.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.barranco-link" action="http://www.github.com/"/>
 		</acme:menu-option>
 	</acme:menu-left>
 
