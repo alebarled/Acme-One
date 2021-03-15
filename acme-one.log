@@ -1,4 +1,7 @@
 
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-4FSOHOU with PID 25452 (C:\Users\Victor Granero\Desktop\Workspace-21.1\Workspace-21.1\Projects\Acme-One\target\classes started by Victor Granero in C:\Users\Victor Granero\Desktop\Workspace-21.1\Workspace-21.1\Projects\Acme-One)
+INFO [acme.Launcher] The following profiles are active: development,populator
+INFO [acme.Launcher] Started Launcher in 6.841 seconds (JVM running for 7.63)
 INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-E6RSVOF with PID 7200 (D:\Workspace-21.1\Projects\Acme-One\target\classes started by jesus in D:\Workspace-21.1\Projects\Acme-One)
 INFO [acme.Launcher] The following profiles are active: development,populator
 INFO [acme.Launcher] Started Launcher in 7.18 seconds (JVM running for 8.212)
