@@ -30,6 +30,7 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.aparicio-link = Enlace de Aparicio
 master.menu.anonymous.ostos-favourite-link = Link de Ostos
 master.menu.anonymous.barranco-link = Link de Barranco
 
@@ -46,6 +47,7 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
+master.menu.provider.aparicio-link = Enlace de Aparicio
 master.menu.provider.ostos-favourite-link = Link de Ostos
 master.menu.provider.barranco-link = Link de Barranco
 
@@ -53,6 +55,7 @@ master.menu.provider.barranco-link = Link de Barranco
 
 master.menu.consumer = Consumidor
 master.menu.consumer.favourite-link = Enlace favorito
+master.menu.consumer.aparicio-link = Enlace de Aparicio
 master.menu.consumer.ostos-favourite-link = Link de Ostos
 master.menu.consumer.barranco-link = Link de Barranco
 
