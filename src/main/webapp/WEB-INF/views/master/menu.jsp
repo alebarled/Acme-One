@@ -21,6 +21,7 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.ostos-favourite-link" action="https://www.cleverbot.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.barranco-link" action="http://www.github.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -35,11 +36,13 @@
 		<acme:menu-option code="master.menu.provider" access="hasRole('Provider')">
 			<acme:menu-suboption code="master.menu.provider.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.provider.ostos-favourite-link" action="https://www.cleverbot.com/"/>
+			<acme:menu-suboption code="master.menu.provider.barranco-link" action="http://www.github.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
 			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.consumer.ostos-favourite-link" action="https://www.cleverbot.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.barranco-link" action="http://www.github.com/"/>
 		</acme:menu-option>
 	</acme:menu-left>
 
